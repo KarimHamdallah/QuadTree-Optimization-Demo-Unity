@@ -11,7 +11,7 @@ Two modes can be toggled at runtime:
 | Mode | Distance Checks / Frame |
 |---|---|
 | Brute Force | 10,000 |
-| QuadTree | ~140 |
+| QuadTree | ~ 140 : 200 |
 
 That's a **~98% reduction** in distance checks — same correct result, much less work.
 
@@ -45,3 +45,4 @@ Root (whole world)
 6. Watch the **Check Distance Count** drop from 10,000 to ~140
 
 ### Demonstration Video
+https://github.com/user-attachments/assets/ddb7b506-3b24-4660-8903-49dc378b7c8f
